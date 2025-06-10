@@ -24,7 +24,10 @@ My github link: (https://github.com/frantonissi)<!--
 
 - Thanks for visiting.
 
-- Enjoy it!! o/
+- Enjoy it!! \o/
+  
 Assets/dino.gif
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20px" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20px" /> I’m *currently learning* how to **flex README** on my **profile** 💪.
+
 
