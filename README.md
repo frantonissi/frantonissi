@@ -8,7 +8,7 @@
 
  
 
-:computer: I'm a sudent learning about Front-End Developer!
+:computer: I'm a sudent learning about Back-End Developer and Cibersecurity!
 
 :house_with_garden: I’m from Brazil.
 
