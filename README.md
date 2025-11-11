@@ -36,5 +36,6 @@ Assets/dino.gif
 ![Cibersegurança animada](./assets/security.gif)
 
 > 🔐 Projetos de Cibersegurança — ferramentas, exploits de laboratório e notas.
+![Cibersegurança animada](https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/assets/security.gif)
 
 
