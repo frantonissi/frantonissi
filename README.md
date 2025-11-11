@@ -32,5 +32,9 @@ Assets/dino.gif
 [![pentest](https://img.shields.io/badge/pentest-active-brightgreen)](https://seu-site-ou-profile.com)
 <br />
 ![Cibersegurança animada](./assets/security.gif)
+<!-- Coloque security.gif na raiz ou em ./assets/ -->
+![Cibersegurança animada](./assets/security.gif)
+
+> 🔐 Projetos de Cibersegurança — ferramentas, exploits de laboratório e notas.
 
 
