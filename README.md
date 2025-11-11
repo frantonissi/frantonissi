@@ -20,7 +20,6 @@
 ## About me
 
 My github link: (https://github.com/frantonissi)<!--
-**frantonissi/frantonissi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - Thanks for visiting.
 
