@@ -2,20 +2,15 @@
 
 # Welcome!
 
- 
-
 ## I'm Francisco Toro Tonissi!
 
- 
+💻 I'm a student learning about Back-End Development and Cybersecurity!
 
-:computer: I'm a sudent learning about Back-End Developer and Cibersecurity!
+🏠 I'm from Brazil.
 
-:house_with_garden: I’m from Brazil.
+📚 I'm currently studying Computer Science at Unifal-MG.
 
-:books: I’m currently learning everything in Unifal-MG.
-
-
- 
+---
 
 ## 🌐 Personal Website
 
@@ -23,17 +18,13 @@
   <img src="https://img.shields.io/badge/Visit%20my%20website-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
-- Thanks for visiting.
+---
 
-- Enjoy it!! \o/
-  
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20px" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
+## 🔐 Cybersecurity
 
-[![pentest](https://img.shields.io/badge/pentest-active-brightgreen)](https://seu-site-ou-profile.com)
-<br />
-![Cibersegurança animada](./assets/security.gif)
-![Cibersegurança animada](./assets/security.gif)
-```text
+> Learning offensive security through labs, CTFs and web penetration testing.
+
+<pre>
 [+] Currently learning
     ├── Web Pentesting
     ├── Burp Suite
@@ -44,6 +35,32 @@
 
 [+] Goal
     └── Become a Penetration Tester
+</pre>
 
-> 🔐 Projetos de Cibersegurança — ferramentas, exploits de laboratório e notas.
+---
 
+## 🛠️ Security Toolkit
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netcat-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Projects
+
+🔐 Cybersecurity projects, web security labs and programming projects.
+
+---
+
+- Thanks for visiting!
+- Enjoy it!! \o/
+
+<img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20px" />
+
+💻 I'm *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
