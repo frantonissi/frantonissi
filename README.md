@@ -17,13 +17,11 @@
 
  
 
-## About me
-
 ## 🌐 Personal Website
 
 <a href="https://seu-site.com">
   <img src="https://img.shields.io/badge/Visit%20my%20website-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a><!--
+</a>
 
 - Thanks for visiting.
 
