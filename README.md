@@ -27,7 +27,6 @@
 
 - Enjoy it!! \o/
   
-Assets/dino.gif
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20px" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
 
 [![pentest](https://img.shields.io/badge/pentest-active-brightgreen)](https://seu-site-ou-profile.com)
