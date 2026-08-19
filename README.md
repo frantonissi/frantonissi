@@ -32,10 +32,18 @@
 [![pentest](https://img.shields.io/badge/pentest-active-brightgreen)](https://seu-site-ou-profile.com)
 <br />
 ![Cibersegurança animada](./assets/security.gif)
-<!-- Coloque security.gif na raiz ou em ./assets/ -->
 ![Cibersegurança animada](./assets/security.gif)
+```text
+[+] Currently learning
+    ├── Web Pentesting
+    ├── Burp Suite
+    ├── Linux
+    ├── Networking
+    ├── SQL Injection
+    └── Cross-Site Scripting (XSS)
+
+[+] Goal
+    └── Become a Penetration Tester
 
 > 🔐 Projetos de Cibersegurança — ferramentas, exploits de laboratório e notas.
-![Cibersegurança animada](https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/assets/security.gif)
-
 
